@@ -56,3 +56,9 @@
 #portfolio {
     padding-bottom: 4rem;
 }
+/* image sizing */
+.card-img-top {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
